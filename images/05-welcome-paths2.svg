@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+    <path fill="rgba(0,0,0, 0.3)" d="M20, 20 L50,50 L100,200 L95,210, C60,250, 50, 260, 40, 300, C1,200, 00,100, 20,20"
+</svg>
