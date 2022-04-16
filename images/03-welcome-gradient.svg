@@ -6,6 +6,12 @@
             <stop offset="50%" stop-color="yellow" />
             <stop offset="70%" stop-color="blue" />
         </linearGradient>
+
+        <radialGradient id="radialGradient">
+            <stop offset="10%" stop-color="orange" />
+            <stop offset="80%" stop-color="red" />
+        </radialGradient>
     </defs>
     <rect width="400" height="200" x="0" y="0" fill="url(#blueGradient)" />
+    <circle cx="100" cy="40" r="15" fill="url(#radialGradient)" />
 </svg>

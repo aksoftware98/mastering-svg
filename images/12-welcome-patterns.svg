@@ -1,0 +1,7 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+    <pattern id="path" width="40" height="40" patternUnits="userSpaceOnUse">
+        <polyline points="0,40 10,0 20,40 30,0 40,0" fill="none" stroke="white" stroke-width="2" />
+    </pattern>
+
+    <circle cx="50" cy="50" r="30" fill="url(#path)"
+</svg>
